@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated at run time
+generated_reports/*.txt
+data/*.bak-*
+data/*.tmp
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
